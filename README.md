@@ -11,10 +11,13 @@ There is also an option to use Docker for running the program.
 - [Yurii Panasiuk](https://github.com/pomog)
 
 ## Usage: 
+using "standard.txt"
 ![Alt text](readmeImgs/image.png)
 
+using "shadow.txt"
 ![Alt text](readmeImgs/image1.png)
 
+using "thinkertoy.txt"
 ![Alt text](readmeImgs/image2.png)
 
 ### FORGOT WSL SUDO PASSWORD? !!!
