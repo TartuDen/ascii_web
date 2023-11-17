@@ -16,6 +16,7 @@ There is also an option to use Docker for running the program.
 ![Alt text](readmeImgs/image1.png)
 
 ![Alt text](readmeImgs/image2.png)
+
 ### FORGOT WSL SUDO PASSWORD? !!!
 If you've forgotten your WSL SUDO password, use Windows CMD to reset it:
 
